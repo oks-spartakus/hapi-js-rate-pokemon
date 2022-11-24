@@ -6,7 +6,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Voting for you favourite Pokemon.Written in <a href="https://github.com/nestjs/nest" target="_blank">NestJs</a> - a progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">Voting for you favourite Pokemon.Written in <a href="https://github.com/hapijs/hapi" target="_blank">HapiJs</a> - simple, secure, <a href="http://nodejs.org" target="_blank">Node.js</a> framework tahat developers trust.</p>
     <p align="center">
 </p>
 
@@ -23,11 +23,8 @@ $ npm install
 ## Running the app
 
 ```bash
-# development
+# development in watch mode
 $ npm run start
-
-# watch mode
-$ npm run start:dev
 ```
 
 ## Test
@@ -41,5 +38,5 @@ There are no tests written for this project.
 # development
 $ npm run start
 ```
-then go to [http://localhost:3000/api](http://localhost:3000/api)
+then go to [http://localhost:3001/documentation](http://localhost:3001/documentation)
 
