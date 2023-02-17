@@ -3,10 +3,8 @@
   <a href="." target="blank"><img src="https://seeklogo.com/images/P/pokeball-logo-DC23868CA1-seeklogo.com.png" width="200" alt="Pokeball" /></a>
 </p>
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">Voting for you favourite Pokemon.Written in <a href="https://github.com/hapijs/hapi" target="_blank">HapiJs</a> - simple, secure, <a href="http://nodejs.org" target="_blank">Node.js</a> framework tahat developers trust.</p>
+  <p align="center">Voting for you favourite Pokemon.Written in 
     <p align="center">
 </p>
 
